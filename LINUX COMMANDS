@@ -15,5 +15,6 @@ An assembly language is a type of low-level programming language that is intende
 > mv - Move or rename files in linux.
 > ls -ll  - to  show the List in the folder
 > cp - Similar usage as mv but for copying files in Linux
->  
-
+>  ls [optional] [file / directory]  -  'ls' will display of the current directory. By default, 'ls' lists files and directories in alphabetical order.
+                                        Commonly Used Options in 'ls' command in Linux.
+> ls -t   -   It sorts the file by modification time, showing the last ed.
